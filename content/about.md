@@ -1,0 +1,6 @@
++++
+title = "About Elizabeth Bigger"
+slug = "about"
++++
+
+Elizabeth Bigger is known for seamlessly integrating computational elements and historical construction techniques into artistic creations. Her use of artistic processes with modular computational elements combine to promote and question the advancements of our modern world. Integrating traditional textile, painting, and lighting techniques with code and digital fabrication, she merges multiple artistic methods to create new visions for the future of humanity. She began sewing at age three and took on a tailoring apprenticeship at age 19. This was followed by a decade creating costumes for theatre, opera, and film. The special effects textiles she used in developing costumes for performances influenced her towards integrating electronics into art and garments. Elizabeth’s current focus is in developing technology in a way that respects all of the species and dynamic processes which govern our existence. This research is branching into sustainable innovation and developing a curriculum to teach augmented senses development.
