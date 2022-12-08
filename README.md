@@ -6,7 +6,7 @@ This repository holds the hugo project for your website.
 
 ### Install tools
 
-Install Hugo via homebrew on macos. You only need to do this once on your system.
+Install Hugo via homebrew on macos. You only need to do this once on your system. Note: You should update your hugo to `hugo v0.107.0+extended`
 
 1. Open the terminal
 2. install Hugo:
@@ -69,8 +69,8 @@ Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
 5. Open ` http://localhost:1313/` in your browser to see the page update. Note: if you change config.toml, you'll need to press Ctrl+C and run `Hugo Server` again.
-6. Your content is in the directory `content`. Update this by chnging the md files in there, or by adding new files.
+6. Your content is in the directory `content`. Update this by chnging the md files in there, or by adding new files. If you want to add images, add them in the `static/images` directory.
 
 ### Updating the live site
 
-For now, this is a manual process of uploading the generated `public` directory to the `luisandelizabeth.net` server
+For now, this is a manual process of uploading the generated `public` directory to the `luisandelizabeth.net` server.
