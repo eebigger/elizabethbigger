@@ -18,6 +18,8 @@ disqusShortname = "yourdiscussshortname"
 
 googleAnalytics = "UA-21483620-3"
 
+ignoreErrors = ["error-missing-instagram-accesstoken"]
+
 [params]
     author = "Elizabeth Bigger"
     description = "Elizabeth Bigger's website"
