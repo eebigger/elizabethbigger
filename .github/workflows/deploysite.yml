@@ -26,4 +26,3 @@ jobs:
           username: elizabeth@elizabethandluis.net
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
-          server-dir: ./pre/
