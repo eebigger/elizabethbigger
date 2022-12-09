@@ -8,16 +8,16 @@ jobs:
     steps:
       - name: 🚚 Get latest code
         uses: actions/checkout@v3
-#      - name: ⚙️ Setup Hugo
-#        uses: peaceiris/actions-hugo@v2
-#       with:
-#          hugo-version: '0.107.0'
-#          extended: true
-#      - name: 🔨 Build
-#        run: hugo --minify
-      - name: 🔨 Create file
-        run: |
-          printf "Hello\nWorld\nElizabeth" > hw.txt
+      - name: ⚙️ Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+       with:
+          hugo-version: '0.107.0'
+          extended: true
+      - name: 🔨 Build
+        run: hugo --minify
+#      - name: 🔨 Create file
+#        run: |
+#          printf "Hello\nWorld\nElizabeth" > hw.txt
       - name: 📂 Push ftp
         uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
@@ -25,5 +25,5 @@ jobs:
           port: 21
           username: elizabeth@elizabethandluis.net
           password: ${{ secrets.FTP_PASSWORD }}
-          #local-dir: ./public/
+          local-dir: ./public/
           server-dir: ./pre/
