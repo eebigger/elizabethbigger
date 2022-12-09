@@ -1,5 +1,5 @@
 +++
-title= "Circular collaborative customization within microfactories: A viable business model for fashion 2030"
+title= "Circular collaborative customization within microfactories: A business model for fashion 2030"
 date= 2019-03-31
 draft= false
 series= ["fashion"]

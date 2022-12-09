@@ -1,7 +1,7 @@
 +++ 
 draft = false
-date = 2019-03-31T11:20:19+02:00
-title = "The Open Body Database"
+date = 2013-03-31T11:20:19+02:00
+title = "the open body database"
 description = ""
 slug = "" 
 tags = []
@@ -11,11 +11,9 @@ series = ["fashion"]
 thumb = ""
 year = ""
 +++
-[https://obdb.org/](https://obdb.org/)
 
-The Open Body Database was recently exhibited at Ars Electronica 2018. 
 
-The Open Body Database is an open-source platform for collecting human body data. The main objective of this database is to support a fashion industry that is sustainable and is based on real human bodies. This initiates a discussion of physical human data collection, privacy and how bodies can be shared to aid in further discoveries, industry change or study.
+The Open Body Database was an open-source platform for collecting human body data. The main objective of this database is to support a fashion industry that is sustainable and is based on real human bodies. This initiates a discussion of physical human data collection, privacy and how bodies can be shared to aid in further discoveries, industry change or study.
 
 <!--
 # The Problems
@@ -43,8 +41,6 @@ Anyone can donate their body to the Open Body Database by submitting a 3d scan o
 
 {{< figure src="/images/open-body-database/Body-Processing.jpg" caption="Overview of anonimization process" >}}
 
-The project is currently a work in progress while the data pipeline and database schema are being developed.
 
 The Open Body Database project was supported by the [Mozilla Open Leaders Program](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-6/projects/projects---cohort-c/).
 
-[Open Body Database Website](https://obdb.org/)

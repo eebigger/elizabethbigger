@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2016-09-30
-title = "Programmable Plaid"
+title = "programmable plaid"
 description = ""
 slug = "" 
 tags = []

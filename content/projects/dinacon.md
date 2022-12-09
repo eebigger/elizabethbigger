@@ -1,7 +1,7 @@
 +++ 
 draft = false
-date = 2018-03-31T23:54:06+02:00
-title = "TribeNET"
+date = 2018-06-30
+title = "digital naturalism conference"
 description = ""
 slug = "" 
 tags = []
@@ -11,6 +11,8 @@ series = []
 thumb = ""
 year = ""
 +++
+
+input tribeNet and biolum textile here. 
 
 TribeNET was developed during the [Digital Naturalism Conference](https://dinacon.org) in 2018, on the island of Koh Lon, Phuket, Thailand.
 
@@ -72,3 +74,11 @@ TribeNET was used on a hike through the paths of Koh Lon. During this hike the h
 
 {{<figure src="/images/tribenet/tn11.png" caption="TribeNET. Photo by Mark Iifana." width="100%">}}
 
+bioluminescent textile
+
+A rapid experiment resulted from an evening of swimming with the Dinacon group in the bioluminescent waters off of Koh Lon, Thailand. Wondering if it was possible to bring the glow of the dinoflagellates into a textile, I mocked up a sample using fiber optic threads and natural wool roving. 
+Using .25 mm fiber optic threads I tied knots in various locations of the thread strands to create the points of light, or “dinoflagellates.” Some used 2, 3, 4, or 5 strands and then knotted for size variation, in an attempt to create depth within the textile. 
+I used 100% wool roving, torn into small pieces and laid out into the sample rectangle shapes in a criss cross fashion, alternating directions in the style of felt creation. I made two of these wool pieces, each with 5+ layers of roving pieces. 
+The fiber optic stands were then gathered at one end and bound, and then I placed the bundle of fiber optic “dinoflagellates” on one layer of the wool sample, spreading the fiber optic threads out to cover the full area of the wool. Then I placed the second roving sample on top the fiber optics, sandwiching the fibers between the two wool pieces. 
+This was then stamped on by my assistant to begin felting and then placed into a undergarment laundry bag to be fully massaged by the sea. The felting process was completed by the washing in the sea, with non-toxic dish soap and the waves pounding on the wool fibers. I rung out the textile and then hung it over a nearby tree branch to dry in the sun. 
+We tested the textile that night by plugging it into our LED dongle, and the textile illuminated, making a quick sample of a super soft bioluminescence textile.

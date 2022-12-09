@@ -1,7 +1,7 @@
 +++ 
 draft = false
-date = 2019-01-31T11:20:03+02:00
-title = "She Programs the Code"
+date = 2018-01-31T11:20:03+02:00
+title = "she programs the code"
 description = ""
 slug = "" 
 tags = []

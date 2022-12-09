@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2013-09-30
-title = "Lüme Collection"
-description = "Lüme is an electronically infused clothing collection which integrates dynamic, user customizable elements driven wirelessly from a common mobile phone."
+title = "lüme: electronically infused fashion"
+description = "lüme is an electronically infused clothing collection which integrates dynamic, user customizable elements driven wirelessly from a common mobile phone."
 slug = "" 
 tags = []
 categories = []
