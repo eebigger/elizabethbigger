@@ -12,5 +12,4 @@ thumb = ""
 year = ""
 +++
 
-+abstract
-threatre work selection, wiley, and backstage images. 
+ 
