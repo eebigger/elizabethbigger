@@ -1,7 +1,7 @@
 baseurl = "https://www.elizabethbigger.com/"
 title = "Elizabeth Bigger"
 
-theme = "hugo-coder", "hugo-shortcode-gallery"
+theme = "hugo-coder"
 
 languagecode = "en"
 defaultcontentlanguage = "en"

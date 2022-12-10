@@ -9,5 +9,7 @@ categories = []
 externalLink = ""
 series = []
 thumb = ""
-year = ""
+year = "2019"
 +++
+
+{{< figure src="/images/digital-fashion-workflows/fashion-design-workflows.png" caption="" width="100%">}}
