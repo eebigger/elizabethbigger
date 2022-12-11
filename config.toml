@@ -1,5 +1,5 @@
 baseurl = "https://www.elizabethbigger.com/"
-title = "Elizabeth Bigger"
+title = "elizabeth bigger"
 
 theme = ["hugo-coder", "hugo-shortcode-gallery"]
 
@@ -20,9 +20,12 @@ googleAnalytics = "UA-21483620-3"
 
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
+[imaging.exif]
+    includeFields = ".*"
+
 [params]
-    author = "Elizabeth Bigger"
-    description = "Elizabeth Bigger's website"
+    author = "elizabeth bigger"
+    description = "elizabeth bigger's website"
     keywords = "projects,wearable technology,tailor"
     info = "Computational Garment Practitioner & Researcher."
     avatarurl = "images/avatar.jpg"
@@ -85,14 +88,14 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
         languagename = "English"
 
         [[languages.en.menu.main]]
-        name = "About"
+        name = "about"
         weight = 1
         url = "/about/"
 
         [[languages.en.menu.main]]
-        name = "Projects"
+        name = "works"
         weight = 2
-        url = "/projects/"
+        url = "/works/"
 
         [[languages.en.menu.main]]
         name = "Publications"
