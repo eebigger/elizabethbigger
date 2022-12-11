@@ -26,7 +26,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 [params]
     author = "elizabeth bigger"
     description = "elizabeth bigger's website"
-    keywords = "projects,wearable technology,tailor"
+    keywords = "parametric fashion, ai fashion, generative fashion,wearable technology,digital fashion,fashion futures,tailor"
     info = "Computational Garment Practitioner & Researcher."
     avatarurl = "images/avatar.jpg"
     footercontent = ""
@@ -98,7 +98,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
         url = "/works/"
 
         [[languages.en.menu.main]]
-        name = "Publications"
+        name = "publications"
         weight = 2
         url = "/publications/"
 
