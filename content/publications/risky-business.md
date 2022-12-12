@@ -1,5 +1,5 @@
 +++
-title= "(2023) Risky Business: Sustainable Fashion Through New Technologies. "
+title= "(2023 book chapter) Risky Business: Sustainable Fashion Through New Technologies. "
 date= 2022-12-01
 draft= false
 series= ["fashion"]

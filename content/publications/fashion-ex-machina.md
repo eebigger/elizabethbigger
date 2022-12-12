@@ -1,5 +1,5 @@
 +++
-title= "(2023) Fashion ex Machina: Human-Machine Collaboration to Support Sustainability through Customized Design and Production. "
+title= "(2023 book chapter) Fashion ex Machina: Human-Machine Collaboration to Support Sustainability through Customized Design and Production. "
 date= 2022-12-01
 draft= false
 series= ["fashion"]
