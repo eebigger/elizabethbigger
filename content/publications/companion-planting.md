@@ -5,7 +5,7 @@ draft= false
 series= ["fashion"]
 +++
 
-Published in [The Fashion Studies Journal](https://www.fashionstudiesjournal.org/digital-engagement-c/2022/8/9/generative-fashion-companion-planting-fashions-digital-futures).
+Published in [The Fashion Studies Journal](https://www.fashionstudiesjournal.org/digital-engagement-c/2022/8/9/generative-fashion-companion-planting-fashions-digital-futures)
 
 Image 1: Generative fashion designs created by the author and artificial intelligence with the text prompt, “Generative fashion realities are sprouting all around, connected via modems through the earth’s soils, through complex energy systems.” 
 

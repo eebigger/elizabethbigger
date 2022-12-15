@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2022-03-31T18:27:13+02:00
-title = "gen22: bespoke generative fashion"
+title = "gen22: bespoke generative fashion system"
 description = ""
 slug = "" 
 tags = []
