@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2018-06-30
-title = "digital naturalism conference"
+title = "digital naturalism"
 description = ""
 slug = "" 
 tags = []
