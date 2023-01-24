@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2018-12-01 
-title = "digital fashion design workflows"
+title = "generative fashion design workflows"
 description = ""
 slug = "" 
 tags = []
