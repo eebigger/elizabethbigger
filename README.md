@@ -72,19 +72,11 @@ Press Ctrl+C to stop
 6. Your content is in the directory `content`. Update this by chnging the md files in there, or by adding new files. If you want to add images, add them in the `static/images` directory.
 
 ### Updating the live site
-You can use a terminal for this, or the source control tools in VS Code
+You can use a terminal for this, or the source control tools in VS Code.
 
-The cli way:
-
-- commit changes
-
-`git commit -a`
-
-*note: this commits ALL changes. You might not want to do that
-
-- push changes to origin
-
-`git push`
+- in VS Code fo to the source control tab
+- review changed files and press '+' to stage the changes.
+- 
 
 ### [OLD] Updating the live site
 
