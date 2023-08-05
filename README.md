@@ -76,7 +76,8 @@ You can use a terminal for this, or the source control tools in VS Code.
 
 - in VS Code fo to the source control tab
 - review changed files and press '+' to stage the changes.
-- 
+- add a commit message
+- press the down button to find 'commit & push'. press that
 
 ### [OLD] Updating the live site
 
