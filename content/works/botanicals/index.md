@@ -12,7 +12,7 @@ thumb = ""
 year = "2022"
 +++
 
-# ai botanical sketches & climate change haiku peoms 
+# ai botanical sketches & climate change haiku poems 
 
 The AI botanical series speculates future species of epochs evolving from the human eras, cataloged to learn from what grew beyond the extinctions. Each species' artwork contains a haiku which identifies the domain within the evolving sprouting seasons. Use the QR code to find the unique haiku pinned to the IPFS. The works are to bring focus to the evolutionary cycles of nature and growth, and the human alterations from climate change integrated into these processes which evolve into new species. December 2022.
 
@@ -36,5 +36,4 @@ The shorter, edited extract from chapter 2, “Tentacular Thinking: Anthropocene
 
 ***botanicals*** 
 
-
-{{< gallery match="images/*" sortOrder="desc" rowHeight="200" margins="20" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery="true">}}
+{{< gallery match="images/*" sortOrder="desc" rowHeight="400" margins="20" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="color" embedPreview=true loadJQuery="true">}}
