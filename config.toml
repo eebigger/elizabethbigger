@@ -1,4 +1,4 @@
-baseurl = "https://www.elizabethbigger.com/"
+baseurl = "/"
 title = "elizabeth bigger"
 
 theme = ["hugo-coder", "hugo-shortcode-gallery"]
