@@ -1,5 +1,6 @@
-baseurl = "/"
+baseurl = "https://www.elizabethbigger.com/"
 title = "elizabeth bigger"
+
 
 theme = ["hugo-coder", "hugo-shortcode-gallery"]
 
@@ -59,7 +60,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
     name = "Email"
     icon = "fas fa-envelope"
     weight = 1
-    url = "mailto:elizabeth@datable.net"
+    url = "mailto:eebigger@gmail.com"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
