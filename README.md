@@ -74,10 +74,16 @@ Press Ctrl+C to stop
 ### Updating the live site
 You can use a terminal for this, or the source control tools in VS Code.
 
-- in VS Code fo to the source control tab
+- open vs code
+- open the local repo files elizabethbiggerdotcom
+- add the wonderful new things you've done!
+- in VS Code go to the source control tab
 - review changed files and press '+' to stage the changes.
 - add a commit message
 - press the down button to find 'commit & push'. press that
+- go to the github repo actions/deploy site workflow: https://github.com/eebigger/elizabethbiggerdotcom/actions/workflows/deploysite.yml
+- press `run workflow`
+- check the site to see that changes have been applied: https://www.elizabethbigger.com/ 
 
 ### [OLD] Updating the live site
 
