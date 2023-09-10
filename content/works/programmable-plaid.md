@@ -9,6 +9,7 @@ categories = []
 externalLink = ""
 series = ["fashion"]
 thumb = "images/programmable-plaid/pp-thumb.jpg"
+front = true
 year = "2016"
 +++
 

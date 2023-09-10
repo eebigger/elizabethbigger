@@ -1,0 +1,12 @@
+<section class="container centered">
+    <div class="grid-container">
+        {{ range where .Site.Pages ".Params.front" true}}
+        <div class="grid-item">
+            <a href="{{ .Params.ExternalLink | default .RelPermalink }}">
+                <img src="{{ .Params.thumb }}"/>
+                <!--<a class="title custom" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>-->
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</section>

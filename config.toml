@@ -55,6 +55,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [taxonomies]
   series = "series"
+  tags = "tags"
 
 [[params.social]]
     name = "Email"
@@ -100,7 +101,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
         [[languages.en.menu.main]]
         name = "publications"
-        weight = 2
+        weight = 3
         url = "/publications/"
 
      #   [[languages.en.menu.main]]
