@@ -3,6 +3,8 @@ title= "2030: Black Textiles Become Illegal - Active steps for climate impact fr
 date= 2019-03-30
 draft= false
 series= ["fashion"]
+front = true
+thumb = "images/N90.jpg"
 +++
 
 Presented at the [22nd Annual Sustainable Innovation Conference 2019](https://cfsd.org.uk/events/sustainable-innovation-2019/).

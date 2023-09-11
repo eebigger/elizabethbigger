@@ -3,6 +3,8 @@ title= "Awareness Jacket: EMF-shielding garment"
 date= 2019-09-09
 draft= false
 series= ["fashion"]
+front = true
+thumb = "images/N90.jpg"
 +++
 
 [Tarek Kassouf, Luis Edgardo Fraguada, and Elizabeth Esther Bigger. 2019. Awareness jacket: EMF-shielding garment. In Proceedings of the 23rd International Symposium on Wearable Computers (ISWC '19). Association for Computing Machinery, New York, NY, USA, 284–289. https://doi.org/10.1145/3341163.3346941](https://dl.acm.org/doi/10.1145/3341163.3346941)

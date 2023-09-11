@@ -55,6 +55,7 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 [taxonomies]
   series = "series"
+  tags = "tags"
 
 [[params.social]]
     name = "Email"

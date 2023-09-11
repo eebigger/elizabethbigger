@@ -8,8 +8,9 @@ tags = []
 categories = []
 externalLink = ""
 series = ["fashion"]
-thumb = ""
 year = "2018"
+front = true
+thumb = "images/N90.jpg"
 +++
 [https://gencloth.com/](https://gencloth.com/)
 

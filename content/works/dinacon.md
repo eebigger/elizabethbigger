@@ -8,7 +8,8 @@ tags = []
 categories = []
 externalLink = ""
 series = []
-thumb = ""
+front = true
+thumb = "images/N90.jpg"
 year = ""
 +++
 
