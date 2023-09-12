@@ -5,7 +5,8 @@ draft= false
 series= ["fashion"]
 tags=[]
 front = true
-thumb = "images/N90.jpg"
+thumb = "thumbnails/EBigger_1_Header_CompanionPlanting.png"
+
 +++
 
 Published in [The Fashion Studies Journal](https://www.fashionstudiesjournal.org/digital-engagement-c/2022/8/9/generative-fashion-companion-planting-fashions-digital-futures)
