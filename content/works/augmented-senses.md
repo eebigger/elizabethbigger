@@ -9,8 +9,8 @@ categories = []
 externalLink = ""
 series = []
 year = ""
-front = true
-thumb = "images/N90.jpg"
+front = false
+thumb = ""
 +++
 
 [Augmented Senses Instagram](https://www.instagram.com/augmentedsenses/)

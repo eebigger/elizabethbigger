@@ -8,8 +8,8 @@ tags = []
 categories = []
 externalLink = ""
 series = ["fashion"]
-thumb = "images/programmable-plaid/pp-thumb.jpg"
-front = true
+thumb = ""
+front = false
 year = "2016"
 +++
 
