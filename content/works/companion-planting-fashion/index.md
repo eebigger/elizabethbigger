@@ -8,7 +8,8 @@ tags = []
 categories = []
 externalLink = ""
 series = []
-thumb = ""
+front = true
+thumb = "thumbnails/ebigger_CompanioningFashion1_3.webp"
 year = "2022"
 +++
 

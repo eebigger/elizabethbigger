@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2018-06-30
 title = "digital naturalism"
 description = ""
@@ -8,8 +8,8 @@ tags = []
 categories = []
 externalLink = ""
 series = []
-front = true
-thumb = "images/N90.jpg"
+front = false
+thumb = ""
 year = ""
 +++
 

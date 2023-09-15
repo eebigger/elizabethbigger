@@ -8,7 +8,8 @@ tags = []
 categories = []
 externalLink = ""
 series = []
-thumb = ""
+front = true
+thumb = "thumbnails/sptc_7.jpg"
 year = ""
 +++
 

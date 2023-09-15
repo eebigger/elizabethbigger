@@ -2,7 +2,10 @@
 title= "Generative Garment Design for Circularity: Parametric Patterns and Transformative Algorithms for Enabling Circular Fashion Design"
 date= 2021-03-15
 draft= false
+front = true
+thumb = "thumbnails/GenerativeFashionDesign.gif"
 series= ["fashion design"]
+year = "2019"
 +++
 
 Presented at the [23rd Annual Sustainable Innovation Conference: Accelerating Sustainability in Fashion](https://cfsd.org.uk/events/sustainable-innovation-2021/programme/)

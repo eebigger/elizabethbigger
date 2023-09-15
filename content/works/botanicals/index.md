@@ -9,7 +9,7 @@ categories = []
 externalLink = ""
 series = []
 front = true
-thumb = "images/elizabethbigger_botanicals_01042.png"
+thumb = "thumbnails/elizabethbigger_botanicals_01042.png"
 year = "2022"
 +++
 
