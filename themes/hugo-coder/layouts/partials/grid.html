@@ -1,6 +1,16 @@
 <section class="container centered">
     <div class="grid-container">
-        {{ range where .context.Site.Pages .var true}}
+
+        {{ $tag:="" }}
+        {{ if eq .Title "elizabeth bigger" }}
+            {{ $tag = ".Params.front" }}
+        {{ else if eq .Title "Publications" }}
+            {{ $tag = ".Params.publications" }}
+        {{ else if eq .Title "Work" }}
+            {{ $tag = ".Params.work" }}
+        {{ end }}
+        
+        {{ range where .Site.Pages $tag true}}
         <div class="grid-item">
             <a href="{{ .Params.ExternalLink | default .RelPermalink }}">
                 <img src="{{ .Params.thumb }}"/>
