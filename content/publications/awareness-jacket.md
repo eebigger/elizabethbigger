@@ -4,6 +4,7 @@ date= 2019-09-09
 draft= false
 series= ["fashion"]
 front = true
+publications = true
 thumb = "images/N90.jpg"
 +++
 

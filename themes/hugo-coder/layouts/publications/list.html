@@ -5,6 +5,8 @@
   <section class="container list">
     <h1 class="title">{{ .Title }}</h1>
 
+    {{ partial "grid.html" (dict "context" . "var" ".Params.publications") }}
+
     <ul>
       {{- range .Paginator.Pages -}}
         {{- .Render "li" -}}
