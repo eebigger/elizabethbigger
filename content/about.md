@@ -3,7 +3,7 @@ title = "about elizabeth"
 slug = "about"
 +++
 
-Elizabeth Bigger is an artist, researcher and polymath based in Barcelona, Spain, exploring ecologies currently through new media—javascript, threejs, artificial intelligence, 3d scanning and visual programming—questioning the interplay between the authenticity of being and belonging within environments. She often writes & researches in depth to accompany her artworks as she enjoys the discovery processes during creation. Elizabeth is currently in a sabbatical learning to incorporate physics into her coding practice, while compiling the last decade of works. 
+Elizabeth Bigger is an artist, researcher and philomath based in Barcelona, Spain, exploring ecologies currently through new media—javascript, threejs, artificial intelligence, 3d scanning and visual programming—questioning the interplay between the authenticity of being and belonging within environments. She often writes & researches in depth to accompany her artworks as she enjoys the discovery processes during creation. Elizabeth is currently in a sabbatical learning to incorporate physics into her coding practice, while compiling the last decade of works. 
 
 She has been exploring generative and wearable systems, parametrization and bespoke digital garment systems for the previous decade balanced with studying ethics, data privacy and the integration of climate change impact within these systems for Industry 5.0. She has been motivated by the engineering and functional garment aspects of design, data driven design and the aspects of virtual bodies.
 
