@@ -5,7 +5,7 @@ draft= false
 series= ["fashion"]
 front = true
 publications = true
-thumb = "images/N90.jpg"
+thumb = 
 +++
 
 Presented at the [22nd Annual Sustainable Innovation Conference 2019](https://cfsd.org.uk/events/sustainable-innovation-2019/).
