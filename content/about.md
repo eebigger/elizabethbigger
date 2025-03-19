@@ -3,7 +3,7 @@ title = "about elizabeth"
 slug = "about"
 +++
 
-Elizabeth Bigger is a computational garment practitioner and the founder of GenCloth, exploring parametric and generative garment design. Elizabeth is interested in creating bespoke garment systems for the integration of data and waste reduction. She began as a traditional tailor crafting bespoke garments for fifteen years in the United States. When she immigrated to Barcelona, Spain on a spousal visa, she did not have the right to work for a decade. During this time Elizabeth focused on research to including computational programming, parametric design, and electronic hardware into her garment practice. 
+Elizabeth Bigger is a computational garment practitioner and the founder of GenCloth, exploring parametric and generative garment design. Elizabeth is interested in creating bespoke garment systems for the integration of data and waste reduction. She began as a traditional tailor crafting bespoke garments for fifteen years in the United States. When she immigrated to Barcelona, Spain on a spousal visa, she did not have the right to work for over a decade. During this time Elizabeth focused on research to included computational programming, parametric design, and electronic hardware into her garment practice. She brings a unique perspective as a tailor to computational design workflows. 
 
 Elizabeth is currently in a sabbatical year training for her 4rd marathon, learning to further physics into her scripting practice and compiling the last decade of her scripts & works.
 
